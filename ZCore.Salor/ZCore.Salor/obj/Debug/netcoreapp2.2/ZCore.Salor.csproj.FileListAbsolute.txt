@@ -1,0 +1,3 @@
+E:\ZCore\SmallVivian\ZCore\ZCore.Salor\ZCore.Salor\obj\Debug\netcoreapp2.2\ZCore.Salor.csproj.CoreCompileInputs.cache
+E:\ZCore\SmallVivian\ZCore\ZCore.Salor\ZCore.Salor\obj\Debug\netcoreapp2.2\ZCore.Salor.AssemblyInfoInputs.cache
+E:\ZCore\SmallVivian\ZCore\ZCore.Salor\ZCore.Salor\obj\Debug\netcoreapp2.2\ZCore.Salor.AssemblyInfo.cs
